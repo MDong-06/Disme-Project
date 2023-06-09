@@ -1,7 +1,7 @@
 {
-    "name": "MDongCutii",
+    "name": "MDongCuti",
     "version": "1.2.14",
-    "description": "Bot Mirai Mod, Fix And Update By MDongCutii, Chúc các bạn sử dụng vui vẻ 🚀.",
+    "description": "Bot Mirai Mod, Fix And Update By MDongCuti, Chúc các bạn sử dụng vui vẻ 🚀.",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
