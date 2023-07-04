@@ -5,11 +5,6 @@
     "autoCreateDB": true,
     "allowInbox": true,
     "autoClean": true,
-    "adminbot": {
-        "adminPaOnly": false,
-        "adminOnly": false,
-        "ndhOnly": false
-    },
     "encryptSt": false,
     "UPTIME": 0,
     "DASHBOARD": true,
@@ -19,18 +14,11 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Bot Messenger",
-    "PREFIX": "-",
+    "PREFIX": "!",
     "ADMINBOT": [
-        "",
-        "",
         ""
     ],
     "NDH": [
-        "",
-        "",
-        "",
-        "",
-        "",
         ""
     ],
     "DATABASE": {
@@ -86,7 +74,7 @@
     },
     "rankup": {
         "autoUnsend": true,
-        "unsendMessageAfter": 20
+        "unsendMessageAfter": 5
     },
     "shortlink": {
         "bitlyAPI": ""
