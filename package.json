@@ -1,5 +1,5 @@
 {
-    "name": "Đồng Cuti",
+    "name": "Mdong",
     "version": "2.5.0",
     "description": "File bot được sound lại bởi MDong, Chúc các bạn sử dụng vui vẻ 🚀.",
     "main": "mirai.js",
@@ -15,9 +15,7 @@
     "author": "MDong",
     "license": "GPL-3.0",
     "dependencies": {
-        "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@miraipr0ject/assets": "^1.0.9",
-        "adm-zip": "^0.5.9",
         "axios": "^0.27.2",
         "body-parser": "^1.20.0",
         "caesar-salad": "^2.1.0",
@@ -41,7 +39,7 @@
         "helyt": "",
         "image-downloader": "^4.3.0",
         "imgbb-uploader": "^1.5.0",
-	    "imgur": "^1.0.2",
+        "imgur": "^1.0.2",
         "jimp": "^0.16.2",
         "lyrics-finder": "^21.7.0",
         "minimist": "^1.2.6",
